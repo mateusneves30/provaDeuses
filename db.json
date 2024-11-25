@@ -1,31 +1,15 @@
 {
   "deuses": [
-    {
-      "nome": "Zeus"
-    },
-    {
-      "nome": "Atena"
-    },
-    {
-      "nome": "Hermes"
-    },
-    {
-      "nome": "Deméter"
-    }
+    "Zeus",
+    "Atenas",
+    "Hermes",
+    "Demeter"
   ],
   "armas": [
-    {
-      "nome": "Raio"
-    },
-    {
-      "nome": "Cetro"
-    },
-    {
-      "nome": "Caduceu"
-    },
-    {
-      "nome": "Foice"
-    }
+    "raio",
+    "cetro",
+    "caduceu",
+    "foice"
   ],
   "alfabeto": [
     "A",
